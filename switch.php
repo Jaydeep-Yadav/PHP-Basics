@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Switch';
 include 'includes/header.php';
 
 $favcolor = "red";
